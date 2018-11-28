@@ -1,0 +1,257 @@
+[
+    [
+        "/Users/yangshi/workspace/dxDemo/dxDemo/force-app",
+        {
+            "sourcePath": "/Users/yangshi/workspace/dxDemo/dxDemo/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1543444873170,
+            "changeTime": 1543444873170,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main",
+        {
+            "sourcePath": "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1543444873170,
+            "changeTime": 1543444873170,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1543446769592,
+            "changeTime": 1543446769592,
+            "contentHash": "dcf30592421ff95beed6fc7157a8203fd4f7a5f6"
+        }
+    ],
+    [
+        "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1543444873170,
+            "changeTime": 1543444873170,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yangshi/workspace/dxDemo/dxDemo",
+        {
+            "sourcePath": "/Users/yangshi/workspace/dxDemo/dxDemo",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1543445903365,
+            "changeTime": 1543445903365,
+            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/settings/Account.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/settings/Account.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 293,
+            "modifiedTime": 1543446769573,
+            "changeTime": 1543446769573,
+            "contentHash": "e8043d74c42f54252cc6d65e09eb221a9fb49887"
+        }
+    ],
+    [
+        "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/objects/Account/fields/Test_Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/objects/Account/fields/Test_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 374,
+            "modifiedTime": 1543446769578,
+            "changeTime": 1543446769578,
+            "contentHash": "529aae9081bdf6ef94065d245c325e1d607405d4"
+        }
+    ],
+    [
+        "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8266,
+            "modifiedTime": 1543446769582,
+            "changeTime": 1543446769582,
+            "contentHash": "a0c230b2c316ec711879fd8ec1086cb9670c0b66"
+        }
+    ],
+    [
+        "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/flexipages/LightningSalesConsole_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/flexipages/LightningSalesConsole_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 727,
+            "modifiedTime": 1543446769584,
+            "changeTime": 1543446769584,
+            "contentHash": "5b43cf4d8b0c83ea7deb78cde4c24f9117688fa5"
+        }
+    ],
+    [
+        "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/flexipages/LightningService_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/flexipages/LightningService_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 731,
+            "modifiedTime": 1543446769586,
+            "changeTime": 1543446769586,
+            "contentHash": "141f81472302a681ddec77a7fae19cc11b6a87a4"
+        }
+    ],
+    [
+        "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17455,
+            "modifiedTime": 1543446769598,
+            "changeTime": 1543446769598,
+            "contentHash": "523384b6fa38276eea776506218d6ea38f1be2f6"
+        }
+    ],
+    [
+        "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/settings/Forecasting.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/settings/Forecasting.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 111569,
+            "modifiedTime": 1543446769636,
+            "changeTime": 1543446769636,
+            "contentHash": "ffdf926ce6a306d3a26158613090fcd77ff7233d"
+        }
+    ],
+    [
+        "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/settings",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1543446769636,
+            "changeTime": 1543446769636,
+            "contentHash": "fbf9cb04815487f5aac50d345844a3b6efd93d16"
+        }
+    ],
+    [
+        "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543446769578,
+            "changeTime": 1543446769578,
+            "contentHash": "8f08314eea2d6cfb1196944523de7906be35796a"
+        }
+    ],
+    [
+        "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543446769577,
+            "changeTime": 1543446769577,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543446769577,
+            "changeTime": 1543446769577,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543446769582,
+            "changeTime": 1543446769582,
+            "contentHash": "b2aa44986320a18245301bea220f7fe3f37f55d0"
+        }
+    ],
+    [
+        "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1543446769586,
+            "changeTime": 1543446769586,
+            "contentHash": "6434565deaec55ff013b02107125248e701dd492"
+        }
+    ],
+    [
+        "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/yangshi/workspace/dxDemo/dxDemo/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1543446769598,
+            "changeTime": 1543446769598,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
+        }
+    ]
+]
